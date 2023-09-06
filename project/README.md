@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# jsramverk
+
+## npm audit
+
+when we run npm audit we got several vulnerability:
+
+    "found 1 high severity vulnerability in 1521 scanned packages"
+
+## All the steps
+
+
+## Framework
+
+We have used React as our framework and quill for our editor compunent.
